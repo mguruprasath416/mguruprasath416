@@ -20,7 +20,7 @@
 ## 👨‍💻 About Me
 
 * 🎓 Final-year student passionate about **Cybersecurity and Threat Intelligence**
-* 💼 Currently working as a **Cybersecurity Intern at Foresiet**
+* 💼 Currently working as a **Threat Intelligence Operation Intern**
 * 🛡️ Interested in **Threat Intelligence, SOC Operations, Network Security, and Security Research**
 * 🔎 Working on practical approaches to **security-news analysis, threat detection, and intelligence**
 * 🦠 Particularly interested in **ransomware intelligence and tracking emerging cyber threats**
