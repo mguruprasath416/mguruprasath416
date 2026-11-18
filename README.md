@@ -17,7 +17,7 @@
 
 ### 👨‍💻 Snapshot
 - 💼 **CTI & Brand Monitoring Intern @ Foresiet** — Tracking dark-web leak sites, ransomware campaigns, and brand impersonation[cite: 7].
-- 🏆 **Zoho Security Hall of Fame** (Responsible Disclosure) & **TryHackMe Top 8%** globally[cite: 7].
+- 🏆 **TryHackMe Top 8%** globally[cite: 7].
 - 📜 **(ISC)² CC** • **AWS Certified Cloud Practitioner** • **Cisco CCNA (Intro to Networks)** • **Splunk Core**[cite: 7].
 
 ---
@@ -32,9 +32,6 @@
 | 📧 **Phish Guard** | Phishing triage engine parsing RFC 822 headers, `SPF/DKIM/DMARC`, and malicious links with automated risk summaries[cite: 7]. | `Python` `MERN` |
 | 🔒 **Cyber Shield** | Segmented enterprise network with VLANs, inter-VLAN routing, ACLs, VPN access, and centralized Syslog monitoring[cite: 7]. | `Cisco Packet Tracer` `ACLs` |
 
----
-
----
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mguruprasath416&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
