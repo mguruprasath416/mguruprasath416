@@ -1,9 +1,9 @@
-<h1 align="center">Hi, I'm Guru Prasath M 👋</h1>
+<h1 align="center">Hi, I'm Guru Prasath M </h1>
 
-<h3 align="center">Cybersecurity Intern | Threat Intelligence | SOC | Security Research</h3>
+<h3 align="center">Cyber Threat Intelligence & Brand Monitoring Intern | SOC & Security Researcher</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=650&lines=Building+Practical+Cybersecurity+Solutions;Threat+Intelligence+%7C+Ransomware+Intelligence;Security+Research+%7C+Network+Security;Learning%2C+Building%2C+Defending" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=720&color=06B6D4&lines=Threat+Intelligence+%7C+Ransomware+Ecosystem+Tracking;Brand+Protection+%26+Phishing+Infrastructure+Analysis;STIX+2.1+%7C+MITRE+ATT%26CK+%7C+Python+Security+Automation;TryHackMe+Top+8%25+%7C+Zoho+Security+Hall+of+Fame" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -13,71 +13,70 @@
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HERE">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://tryhackme.com/p/YOUR-TRYHACKME-HERE">
+    <img src="https://img.shields.io/badge/TryHackMe-Top%208%25-212C42?style=for-the-badge&logo=tryhackme&logoColor=88CC14" />
+  </a>
+  <a href="mailto:guruprasath458@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-* 🎓 Final-year student passionate about **Cybersecurity and Threat Intelligence**
-* 💼 Currently working as a **Threat Intelligence Operation Intern**
-* 🛡️ Interested in **Threat Intelligence, SOC Operations, Network Security, and Security Research**
-* 🔎 Working on practical approaches to **security-news analysis, threat detection, and intelligence**
-* 🦠 Particularly interested in **ransomware intelligence and tracking emerging cyber threats**
-* 🐍 Building cybersecurity projects using **Python and JavaScript**
-* 🌱 Continuously improving my skills through hands-on projects and security research
-* 🎯 Working toward a career in **Cybersecurity / Threat Intelligence / SOC**
+- 💼 **Cyber Threat Intelligence & Brand Monitoring Intern** at **Foresiet** — tracking dark-web leak sites, brand impersonation domains, and emerging ransomware campaigns[cite: 7]
+- 🎓 Final-year **B.E. Computer & Communication Engineering** student at **Sri Eshwar College of Engineering** (CGPA: `8.1 / 10.0`)[cite: 7]
+- 🏆 **Zoho Security Hall of Fame** — acknowledged for responsibly disclosing an authentication rate-limiting vulnerability on a Zoho web property[cite: 7]
+- 🥇 Ranked in the **Top 8% globally on TryHackMe**, specializing in SOC Level 1 operations, threat hunting, and network defense[cite: 7]
+- 🛡️ Architecting **Threat-Hail** *(Private Research Platform)* — an epistemic ransomware intelligence & adversary graph system built with FastAPI, MongoDB, React 18, STIX 2.1, and FIRST TLP 2.0
+- 🎯 Seeking **SOC Analyst (L1)**, **CTI Analyst**, or **Threat Researcher** opportunities across **Bengaluru, Hyderabad, and Chennai**[cite: 7]
 
 ---
 
-## 🛡️ Cybersecurity Focus
+## 🛠️ Tech Stack & Security Arsenal
 
-**Threat Intelligence**
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
 
-* Threat research and intelligence analysis
-* Cybersecurity news monitoring and classification
-* Ransomware intelligence
-* Threat actor and campaign research
-* Security information analysis
-
-**Security**
-
-* Network security
-* Vulnerability analysis
-* Digital forensics
-* Security monitoring
-* Defensive security concepts
-
-**Development**
-
-* Python
-* JavaScript
-* Git & GitHub
-* Linux
+| Domain | Core Capabilities & Tools |
+| :--- | :--- |
+| **🎯 Threat Intelligence & OSINT** | Ransomware Leak-Site Tracking, Brand & Typosquatting Defense, IOC Enrichment (`VirusTotal`, `AlienVault OTX`, `AbuseIPDB`, `Shodan`), Evidence Correlation |
+| **📐 Standards & Frameworks** | **MITRE ATT&CK**, **OASIS STIX 2.1**, **FIRST TLP 2.0**, **CISA KEV**, NIST CSF, Cyber Kill Chain, Zero Trust & IAM |
+| **🛡️ SOC & Network Defense** | `Splunk` (SPL & Alert Tuning), `Wireshark`, `Nmap`, `Burp Suite`, `Nessus` / `OpenVAS`, VLAN Segmentation, Firewall ACLs, VPN, Syslog[cite: 7] |
+| **⚙️ Security Engineering** | `Python` (`FastAPI`, `AsyncIO`, `Pytest`), `TypeScript`, `React 18`, `MongoDB`, Data Normalization & Deduplication Pipelines |
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Flagship Projects & Research
 
-| Project                                           | Description                                                                                                             |
-| ------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| 🔒 **CISCO-INTERN-PROJECT**                       | Multi-layered campus network security project involving VLAN segmentation, firewall rules, and VPN-based hybrid access. |
-| 🛡️ **Threat-Intelligence**                       | Threat intelligence tooling focused on collecting and working with security-related intelligence.                       |
-| 🦠 **Ransomware Intelligence Platform**           | Work focused on organizing and analyzing ransomware-related intelligence and security events.                           |
-| 🔍 **DOCUMENTATION-ABOUT-VULNERABILITY-ANALYSIS** | Documentation and practical work around identifying and analyzing security vulnerabilities.                             |
-| 🕵️ **Digital-trace**                             | Python-based digital footprint and digital forensics project.                                                           |
-| 📊 **Power BI Projects**                          | Data visualization and dashboard development using Power BI.                                                            |
+| Project | Focus & Impact | Stack |
+| :--- | :--- | :--- |
+| 🦠 **Threat-Hail** *(Private Platform)* | Epistemic ransomware intelligence & adversary graph platform ingesting **77,500+ observations** across 20+ feeds with SHA-256 provenance, bounded confidence scoring (`PCS`), STIX 2.1 / TLP 2.0 governance, Vendor Watchlist alerting, and **262 automated tests**. *(Architecture & demo available on request)* | `FastAPI` `MongoDB` `React 18` `TypeScript` `STIX 2.1` |
+| 🔍 **IOC Sentinel** | Multi-source threat intelligence dashboard aggregating reputation data across VirusTotal, AbuseIPDB, and AlienVault OTX with MITRE ATT&CK mapping—cutting manual triage time by **>50%**[cite: 7]. | `Python` `REST APIs` `MITRE ATT&CK` |
+| 📡 **NewsMon / ClarityTI** | Automated CTI incident & advisory radar that ingests, deduplicates, and classifies CVE bulletins to isolate actively exploited vulnerabilities from routine patch notes[cite: 7]. | `Python` `NLP` `Regex` `Threat Feeds` |
+| 📧 **Phish Guard** | Phishing email triage application parsing RFC 822 headers, `SPF`/`DKIM`/`DMARC` authentication records, and embedded URLs with automated risk breakdowns[cite: 7]. | `Python` `MERN` `Email Forensics` |
+| 🔒 **Cyber Shield (Cisco Intern)** | Segmented enterprise campus network architecture separating student, staff, and server zones using VLANs, inter-VLAN routing, ACLs, VPN access, and centralized Syslog[cite: 7]. | `Cisco Packet Tracer` `VLANs` `ACLs` `Syslog` |
+| 🕵️ **Digital-Trace & Vuln Docs** | Python-based digital footprinting & forensic artifact extraction tooling alongside structured vulnerability analysis playbooks. | `Python` `OSINT` `Digital Forensics` |
 
 ---
 
-## 📚 Currently Learning
+## 🏅 Certifications & Recognition
 
-* Advanced Threat Intelligence
-* Ransomware Intelligence
-* Security Operations & SOC workflows
-* Threat detection and analysis
-* Cybersecurity automation
-* Security data processing and visualization
+- 🛡️ **(ISC)² Certified in Cybersecurity (CC)** — Security Operations, Incident Response & Network Security[cite: 7]
+- ☁️ **AWS Certified Cloud Practitioner** — Cloud Security, Shared Responsibility Model, AWS IAM & VPC[cite: 7]
+- 🌐 **Cisco CCNA: Introduction to Networks** — Packet Switching, Routing Protocols & Transport Security[cite: 7]
+- 📊 **Splunk Core Fundamentals / Expert 101** — Log Ingestion, SPL & Dashboard Creation[cite: 7]
+- 🔐 **NPTEL Ethical Hacking** & **Forage Simulations** (Tata IAM & Mastercard Incident Response)[cite: 7]
 
 ---
 
@@ -96,8 +95,8 @@
 
 ## 🤝 Let's Connect
 
-I'm interested in connecting with cybersecurity professionals, researchers, students, and organizations working in **Threat Intelligence, SOC, Network Security, and Cyber Defense**.
+Always open to collaborating with security researchers, SOC teams, and CTI practitioners on **threat hunting, ransomware intelligence, and defensive automation**.
 
 <p align="center">
-  <i>Building skills. Building security. Building something useful.</i>
+  <i>"Measure what is verifiable, isolate what is uncertain, and build defenses that scale."</i>
 </p>
