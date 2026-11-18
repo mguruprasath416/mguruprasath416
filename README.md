@@ -19,7 +19,6 @@
 - 💼 **CTI & Brand Monitoring Intern @ Foresiet** — Tracking dark-web leak sites, ransomware campaigns, and brand impersonation[cite: 7].
 - 🏆 **Zoho Security Hall of Fame** (Responsible Disclosure) & **TryHackMe Top 8%** globally[cite: 7].
 - 📜 **(ISC)² CC** • **AWS Certified Cloud Practitioner** • **Cisco CCNA (Intro to Networks)** • **Splunk Core**[cite: 7].
-- 🎯 Seeking **SOC Analyst (L1) / CTI Analyst** roles in **Bengaluru, Hyderabad & Chennai**[cite: 7].
 
 ---
 
@@ -34,9 +33,6 @@
 | 🔒 **Cyber Shield** | Segmented enterprise network with VLANs, inter-VLAN routing, ACLs, VPN access, and centralized Syslog monitoring[cite: 7]. | `Cisco Packet Tracer` `ACLs` |
 
 ---
-
-### 🛠️ Core Stack
-`Python` • `FastAPI` • `TypeScript` • `React` • `MongoDB` • `Splunk` • `Wireshark` • `Burp Suite` • `Nmap` • `Linux` • `STIX 2.1` • `MITRE ATT&CK`[cite: 7]
 
 ---
 
